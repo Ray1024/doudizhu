@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dict> 
+    <key>name_list</key>  
+    <array>  
+        <string>叶文洁</string>  
+        <string>汪淼</string>  
+        <string>史强</string>  
+		<string>常伟思</string>  
+        <string>杨冬</string>  
+        <string>丁仪</string> 
+		<string>伊文斯</string>  
+        <string>罗辑</string>  
+        <string>章北海</string> 
+        <string>庄颜</string>  
+        <string>东方延绪</string>  
+        <string>云天明</string> 
+        <string>程心</string>  
+        <string>艾AA</string>  
+        <string>关一帆</string> 
+    </array>  
+    <key>name</key> 
+    <string>昵称</string> 
+    <key>score</key> 
+    <string>欢乐豆</string> 
+	<key>tipinfo</key> 
+    <string>没有大过上家的牌！</string> 
+</dict>

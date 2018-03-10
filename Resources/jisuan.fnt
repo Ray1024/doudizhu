@@ -1,0 +1,24 @@
+info face="∑Ω’˝≈÷ÕﬁºÚÃÂ" size=-80 bold=0 italic=0 charset="" unicode=1 stretchH=100 smooth=1 aa=2 padding=2,2,2,2 spacing=0,0 outline=10
+common lineHeight=100 base=82 scaleW=512 scaleH=512 pages=1 packed=0 alphaChnl=0 redChnl=4 greenChnl=4 blueChnl=4
+page id=0 file="jisuan_0.png"
+chars count=20
+char id=32   x=496   y=0     width=4     height=5     xoffset=-2    yoffset=97    xadvance=22    page=0  chnl=15
+char id=48   x=398   y=186   width=82    height=85    xoffset=-12   yoffset=11    xadvance=57    page=0  chnl=15
+char id=49   x=80    y=285   width=58    height=85    xoffset=1     yoffset=10    xadvance=61    page=0  chnl=15
+char id=50   x=0     y=198   width=83    height=87    xoffset=-11   yoffset=9     xadvance=61    page=0  chnl=15
+char id=51   x=162   y=198   width=81    height=86    xoffset=-10   yoffset=10    xadvance=61    page=0  chnl=15
+char id=52   x=395   y=99    width=84    height=87    xoffset=-13   yoffset=8     xadvance=56    page=0  chnl=15
+char id=53   x=0     y=285   width=80    height=85    xoffset=-12   yoffset=10    xadvance=55    page=0  chnl=15
+char id=54   x=243   y=198   width=79    height=86    xoffset=-9    yoffset=9     xadvance=61    page=0  chnl=15
+char id=55   x=322   y=195   width=76    height=86    xoffset=-8    yoffset=10    xadvance=61    page=0  chnl=15
+char id=56   x=138   y=285   width=86    height=84    xoffset=-15   yoffset=12    xadvance=55    page=0  chnl=15
+char id=57   x=83    y=198   width=79    height=87    xoffset=-9    yoffset=9     xadvance=61    page=0  chnl=15
+char id=21033 x=198   y=99    width=98    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=22797 x=100   y=0     width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=22833 x=199   y=0     width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=25552 x=298   y=0     width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=27963 x=397   y=0     width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=31034 x=296   y=99    width=99    height=96    xoffset=-10   yoffset=7     xadvance=80    page=0  chnl=15
+char id=32988 x=0     y=0     width=100   height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=36133 x=0     y=99    width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
+char id=36830 x=99    y=99    width=99    height=99    xoffset=-10   yoffset=4     xadvance=80    page=0  chnl=15
